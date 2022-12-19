@@ -32,8 +32,6 @@ An in-depth paragraph about your project and overview of use.
 
 ## Authors
 
-Contributors names and contact info
-
 * [Tim Tukei](https://github.com/ttukei)
 * [Austin Lu](https://github.com/tinytin06)
 * [Tony Le](https://github.com/nghiaruoi)
